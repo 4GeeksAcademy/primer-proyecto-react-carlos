@@ -15,16 +15,16 @@ const Home = () => {
 			<Navbar />
 			<Jumbotron/>
 			<div className="row m-1">
-				<div className="col-sm-12 col-md-6 col-lg-3 mb-3">
+				<div className="col-sm-12 col-md-6 col-lg-3  ">
 					<Card/>
 				</div>
-				<div className="col-sm-12 col-md-6 col-lg-3 mb-3">
+				<div className="col-sm-12 col-md-6 col-lg-3  ">
 					<Card/>
 				</div>
-				<div className="col-sm-12 col-md-6 col-lg-3 mb-3">
+				<div className="col-sm-12 col-md-6 col-lg-3  ">
 					<Card/>
 				</div>
-				<div className="col-sm-12 col-md-6 col-lg-3 mb-3">
+				<div className="col-sm-12 col-md-6 col-lg-3  ">
 					<Card/>
 				</div>						
 			</div>
